@@ -36,27 +36,33 @@
 
 <h3 align="left">Data Analytics & Visualization:</h3>
 
-<p align="left">
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  </a>
-  <a href="https://plotly.com/" target="_blank">
-    <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
-  </a>
-</p>
+<div align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
 
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+</a>
+
+<a href="https://plotly.com/" target="_blank">
+<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40" height="40"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" height="40"/>
+</a>
+
+</div>
 #### 🤖 Generative AI & NLP
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
